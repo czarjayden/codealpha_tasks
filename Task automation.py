@@ -14,7 +14,7 @@ def organize_files(directory):
         "Videos": [".mp4", ".mkv", ".avi", ".mov"],
         "Music": [".mp3", ".wav", ".aac"],
         "Archives": [".zip", ".rar", ".tar.gz"],
-        "Others": []  # Everything else goes here
+        "Others": []  
     }
 
 
